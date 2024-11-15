@@ -1,10 +1,10 @@
-# 👋 ¡Hola, soy [Tu Nombre]!  
+# 👋 ¡Hola, soy Alex!  
 
 Soy Alex y estoy estudiando en La Salle Gràcia de Barcelona y me entisiasma la teconologia y todo lo que la rodea 🚀 Aquí encontrarás mis proyectos, herramientas favoritas y formas de contactarme.  
 
 ---
 
-## 🌐 Conecta Conmigo  
+## 🌐 Conecta Conmigo  🌐 ## 
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alexcamposss_)  
@@ -29,5 +29,6 @@ Soy Alex y estoy estudiando en La Salle Gràcia de Barcelona y me entisiasma la 
 - 🎯 Objetivo de 2024: **||APROBAR||.**  
 
 ---
+## 📊 Estadísticas
 
 ✨ _¡Gracias por visitar mi perfil! No dudes en conectarte conmigo en mis redes sociales._  
